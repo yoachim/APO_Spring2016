@@ -6,9 +6,9 @@ Using the Arctic imager with g,r,i,z filters loaded.
 
 ##Planned Calibration Frames## 
 1. bias frames
-2. Dome flats? (note, since we only have the telescope in the middle of the night, we might need to log in extra early, and/or stay late to get flats and bias frames)
+2. Dome flats? (note, since we only have the telescope in the middle of the night, might need to log in extra early, and/or stay late to get flats and bias frames.  Looks like others are doing spectra, so we can probably get twilight time if needed)
 3. Twilight flats?
-4. Stadard star fields?
+4. Standard star fields?
 
 ##Target List##
 ID, RA, Dec, mag
