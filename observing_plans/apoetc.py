@@ -13,3 +13,12 @@ def spi_etc(mag, snr=10., filtername='r'):
     spi_flux = 10.**((mag-spi_c[fm])/(-2.5))
     exptime = snr**2./spi_flux
     return exptime
+
+
+if __name__ == '__main__':
+
+    step = 0.2
+    mags = np.arange(21.5, 24.5+step, step)
+    print 'mag, exptime (snr 15) r, g'
+    for mag in mags:
+        print '%.1f, %.1f, %.1f' % (mag, spi_etc(mag, snr=15., filtername='r')[0], spi_etc(mag, snr=15., filtername='g')[0])
