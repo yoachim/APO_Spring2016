@@ -1,0 +1,10 @@
+Observing log for April 11, 2016
+
+Instrument: ARCTIC, g,r,i filters
+
+Data location:  
+
+
+
+Time(UW local)  filename        Target      exptime       Airmass        Notes
+---------------------------------------------------------------------------
