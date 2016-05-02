@@ -1,0 +1,53 @@
+Instrument: ARCTIC, g,r,i filters
+binned 2x2
+Amp LL
+readout rate: Medium
+
+Data location: inga.astro.washington.edu: /Users/yoachim/Data/APO/Q2UW02/UT160417
+
+
+
+Time(UW local)  filename                Target      exptime    fitler   Airmass        Notes
+---------------------------------------------------------------------------
+1:10 logged in
+looks clear, should be good
+1:23			0001-4					bias		throw-away frames
+1:28  focusing.  1.75" seeing
+1:31			0005-7					A    		30			r 			
+1:34			8-11					A 			30			g  			Not as much flux in  g!
+1:39			12						A 			120			g 
+1:42			13-15					B 			30			r           FAINT!
+1:45			16-17					B 			120			r 			this one might be faded?
+1:49			18						B 			120			g
+1:56			?						C 			30,120		r 			Don't see it. pointing?
+1:57			22-23 					C 			120			g 			
+2:02 			24-27 					D 			30,120		r 			OK, I think I see this one.
+2:09			28-29					D 			120			g 	
+2:14			30-32 					E 			30,120		r 			
+2:20			33-34 					E 			120			g
+2:24			35-36 					F 			30,120		r        	Don't see it in the 30.
+2:28 			37-38					A 			120			r 			back to where we get flux
+2:33 			39	 					A 			120			g 			
+2:36			40-41					D 			120			r 			This is the brightest by far.
+2:40 			42-43 					D 			120 		g
+2:46 			44-45 					D 			120			i
+2:51 			46-50 					H 			30,120 		r 			Maybe kinda see it in the 120s?
+3:02 			51-53 					H 			120 		g
+3:10 			54-57 					H 			120 		i
+3:20 			58-62					I 			120			r 			Can't really tell if SN in there.
+3:33 			63-67					I 			120 		g
+3:48 			68-74 					I 			120			i
+4:05 			75-77 					I 			120			r 			Nothing else up now
+4:14			78-84					I 			120			g 
+
+4:34			85	sky flats
+4:37			86-96					MABlank11	60			g 			sky flats
+4:58 			97-102					MABlank11	30,			r 			sky flats
+5:02			103-109					MABlank11 	10, 		i 			sky flats
+5:07			110-117					bias
+
+
+
+I'm going with the logic that some usable data is better than lots of unusable data.  Not going to try and hammer on things if I can't see any object in a long exposure.  
+
+This seeing is terrible. I should be totally able to see these things in 120s exposures, but they are just getting washed out.  

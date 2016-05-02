@@ -1,8 +1,11 @@
 Observing log for April 11, 2016
 
 Instrument: ARCTIC, g,r,i filters
+binned 2x2
+Amp LL
+readout rate: Medium
 
-Data location:  
+Data location: inga.astro.washington.edu: /Users/yoachim/Data/APO/Q2UW02/UT160412
 
 
 
@@ -14,4 +17,29 @@ Time(UW local)  filename        	Target      exptime    fitler   Airmass        
 5:07		0011-15					Dim Quartz	5			r
 5:09		0016-19					Dim Quartz  15			g
 5:13		0020-23					Dim Quartz 	2			i
+11:00 (logged in from home)
+11:20 closed for clouds
+11:48		0024					bias		0			just checking laptop
+turns out the high readnoise is a known issue--need to read out ~20 to get it down
+in LL mode, toss first 10 exposures.  So, best to use cals taken later in the night.
+11:59		0025-48					bias		0			
+12:07		0049-53					Dim Quartz  5			r 	
+12:10 (TUI crashed)
+12:11		0054-58 				Dim Quartz  15			g
+12:15		0059-63 				Dim	Quartz  2			i
+12:33 (opening)
+1:06seeing at 1.5", lots of clouds
+1:07		0064- 					MUSSES_1604A 30			g 		1.430	clouds.
+1:10		0066					MUSSES_1604I 30			g 
+1:14		0067- 					MUSSES_1604C 30			g 		1.461	
+1:17		0068-70 				MUSSES_1604C 30			r 
+1:21		0071-74 				MUSSES_1604A 30			r
+1:18		0075-78					MUSSES_1604D 30			r 		1.5		Just trying to see anything.
+1:41		0079-83 				MUSSES_1604I 30			r 
+1:46		0084-92 				MUSSES_1604I 30			g 		1.2      Maybe got a photon?
+1:54  closed, Radar shows rain
 
+
+Need to remember to dither more tomorrow to make sure I don't hit the bad column.
+
+forecast for tomorrow is lots of rain.
