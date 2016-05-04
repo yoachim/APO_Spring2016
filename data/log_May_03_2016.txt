@@ -1,0 +1,59 @@
+Instrument: ARCTIC, g,r,i filters
+binned 2x2
+Amp LL
+readout rate: Medium
+Date: May 3, 2016
+
+Data location: inga.astro.washington.edu: /Users/yoachim/Data/APO/Q2UW02/UT160504
+
+
+
+Time(UW local)  filename                Target      exptime    filter   Airmass        Notes
+---------------------------------------------------------------------------
+6:35		 APO_03_May.0001-6			bias			0			Wrong amplifier, do not use
+6:37		 0007-13					bias			0
+6:45		0014-16						dim Quartz		5		r  	flats
+6:47		0017-19						dim Q 			15		g
+6:50		0020-22						dim Q 			3.5		z
+6:51		0023-25						dim Q 			2		i
+6:63		0026-28						Bright Q 		180		u
+7:11 opening
+7:32:  seeing 1.2"
+7:34		0029-30						MUSSES_1604A	30		r 	1.4			Little faint, but still in twilight		
+7:36		31-33						MUSSES_1604A    120		i 	1.4			That looks good
+7:44		34-36 						MUSSES_1604A  	120		r 	1.37     	(come back for g later)
+7:51 		37-39 						1604D 			120 	r 	1.31 		huge signal.
+7:58 		40-44 						1604D 			60,120 	z	1.29 		wow. A bit fainter in z!
+8:09 		45-47 						1604D 			60 		i 	1.27
+8:13 		48-50 						1604D 			120		g 	1.26 		
+8:21 		51-52 						1604D 			120 	u 	1.246 		hm, don't think I see much
+8:26 		53-55 						1604A 			120 	g 	1.275
+8:33		56-58 						1604F 			120,240 r 	1.281		Don't see it. Moving on.
+8:43 		59-60 						1604B 			120		r 	1.23		Do I see it? I don't think I see it.
+8:52 		61	 						1604E 			240 	r 	1.19 		ghosts! 
+9:02 -- getting focus check.  1.6" seeing
+9:08 		64							1604E 			120		r 	1.18 		give it one more chance to spot after re-focus
+9:12 		65 							1604E 			120 	i 	1.177 		so there is a new object in the frame, but not in the box...
+9:15 		66-67 						1604E 			120		g 	1.176 		
+Going to shoot 1604E on the off-chance the finder box was off, since I see a new object.
+9:20 		68 							1604E 			120 	i 	1.174
+9:23 		69 							1604E 			120 	r 	1.173
+9:26 		70 							1604C 			240 	r 	1.192 		Think I see it. Might need to turn guider on.
+9:31 		71 							1604C			120		r 	1.192 	
+9:34 		72-73 						1604C 			120 	g 	1.193 
+9:39 		74	 						1604G 			120 	r 	1.198 
+9:43 		75 							1604G 			240 	r 	1.2 		Don't think I see it.
+9:49 		76 							1604H 			240 	r 	1.19		kinda see the fuzzy thing.
+9:53 		77 							1604I 			240 	r 	1.481 		Maybe in there?
+9:59 		78 							1604I 			240		g 	1.455 		
+10:05 		80 							1604A 			120 	g 	1.226 		
+10:07 		81 							1604A 			120 	r 	1.226 
+10:10 		82 							1604A 			120 	i 	1.226 
+10:12 		83 							1604B 			240 	i 	1.24
+10:16 		84 							1604B 			240 	g 	1.24 
+10:21 		85 							1604B 			240 	r 	1.25 
+10:25 		86 							1604D 			120 	r 	1.22
+10:28 		87 							1604D			120 	g 	1.223
+10:30 		88-91 						1604D 			240 	z 	1.227 		I see it! This might be hard to flat field...Take an extra to maybe be able to build a sky flat.
+10:48 		92-95 						1604D 			240 	u 	1.256 		If you know where to look, it's kinda there.
+11:06 		96 							1604D 			120 	u 	1.296

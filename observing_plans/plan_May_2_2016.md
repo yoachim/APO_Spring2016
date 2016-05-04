@@ -8,3 +8,8 @@ Then, please take g and r band image for C, G, H, I (please skip to the next tar
 
 Log in early so I can get dome flats and bias frames
 
+------
+
+
+want snr of ~20.  That should be really fast for r and g.
+
