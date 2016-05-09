@@ -1,0 +1,42 @@
+Instrument: ARCTIC, g,r,i filters
+binned 2x2
+Amp LL
+readout rate: Medium
+Date: May 8, 2016
+
+Data location: inga.astro.washington.edu: /Users/yoachim/Data/APO/Q2UW02/UT160504
+
+
+
+Time(UW local)  filename                Target      exptime    filter   Airmass        Notes
+---------------------------------------------------------------------------
+6:31            APO_May8_2016.0001-12   bias        0          Toss the first few bias frames since they can be bad
+6:36            0013-16                 B Quartz    180         u  (oops, messed up one of those and swithced filters early)
+6:47            17-19                   Dim Quartz  15          g  
+6:50            20-22                   "           5           r
+6:52            23-25                   Dim Quartz  2           i
+7:07--opened and slewing to 1st target.
+7:28-- 1 arcsec seeing
+focus is 600 in r and g.  i is 25 steps down.
+7:32            29-31                   MUSSES_1604D 60         i   Still very bright. Can use these as twilight flats maybe
+7:39            32-34                   D            60         z   
+7:47            35                      D           120         z   Getting clouds
+7:51            36                      A           60          i   Clouds.
+7:54            37-38                   A           60          r   More clouds.
+8:01            39-43                   A           60          g  
+8:09            44                      A           60          z   and more clouds
+8:14            45                      A           60          r   
+8:15            46                      D           60          r   I can see it! Hit the sucker hole!
+8:17            47-56                   D           120         g   and it's gone again. One good image maybe?
+8:56 closed
+
+
+
+
+plan to skip u-band tonight.
+
+
+(Looks like we're off at 11:10 UW time)
+
+down 25 steps to i, then back up for others.
+
