@@ -1,0 +1,51 @@
+Instrument: ARCTIC, g,r,i filters
+binned 2x2
+Amp LL
+readout rate: Medium
+Date: May 16, 2016
+
+Data location: inga.astro.washington.edu: /Users/yoachim/Data/APO/Q2UW02/
+
+
+Time(UW local)  filename                Target      exptime    filter   Airmass        Notes
+---------------------------------------------------------------------------
+6:38            APO_May16_2016.0001-    bias        0
+6:48            0011-14                 B Quartz    180         u 
+7:02            0015-18                 Dim Quartz  15          g
+7:05            19-21                   Dim Quartz  5           r
+7:06            22-24                   Dim Quartz  2           i
+7:08            25-27                   Dim Quartz  3.5         z
+7:24--seeing 1.2"
+7:25            28                      MUSSES_1604D 30         z
+7:26            29                      MUSSES_1604D 120        z   oops, not faint enough for that yet...
+7:30            30-34                   D            30         z
+7:42            35-39                   D            30         i
+7:47            40-44                   D            120        i
+7:59            45-49                   D           120         z
+8:12            50-53                   D           120         r
+8:22            54-59                   D           120         g   Shooting through some thin clouds.
+8:37            60-63                   A           120         g   Don't see it? Clouds might be getting thicker
+8:47            64-66                   A           120         r
+9:01 --seeing 0.8"
+9:01            67-69                   A           120         i   Clouds clearing a bit? Can see it better now!
+9:09            70-71                   A           120         r   Seems like there was one good frame, then the seeing blew up again.
+9:14            72-74                   C           120         r 
+9:21            75-78                   C           120         g
+9:32            79-81                   C           120         i
+9:40            82-84                   H           120         r
+9:47            85-86                   H           120         g
+9:53            87-89                   I           120         g
+10:00           90-92                   I           120         r
+10:09           93-94                   A           120         g
+10:14           95-96                   A           120         r
+10:19           97-98                   A           120         i
+10:24           99-100                  D           120         i
+10:29           101-102                 D           120         z
+10:34           103-104                 D           120         g  Heading into clouds
+10:39           105-107                 D           120         r
+10:47           108                     D           120         g
+10:50           109                     D           120         z
+10:52           110                     D           120         i
+10:56           111-112                 I           120         r
+10:01           113-114                 I           120         g
+
